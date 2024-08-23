@@ -1,2 +1,2 @@
-## Mini_Project
-Tweet Classification based on replies
+## Tweet-Support-Classifier
+This Repo contains the implementation of LSTM and BERT for our model .
